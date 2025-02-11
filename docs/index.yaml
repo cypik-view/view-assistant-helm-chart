@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  view-assistant:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-11T18:35:58.237372403+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1554006db2668b0132357e08cdaeb5df0785d9bd7bbfcab3c1f408deceb8d1fe
+    name: view-assistant
+    type: application
+    urls:
+    - https://github.com/cypik-view/view-assistant-helm-chart.git/charts/view-assistant-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-11T18:35:58.234844843+05:30"
