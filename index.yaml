@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  view-assistant:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-12T15:17:52.348532456+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 01205f3c594199b6ada6cc7173a66d24382f43631de57b9cea12966c41769d00
+    name: view-assistant
+    type: application
+    urls:
+    - view-assistant-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-12T15:17:52.346492319+05:30"
